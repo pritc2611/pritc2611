@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello, my name is **Prit**. I am a final-year B.Sc. Data Science student with strong expertise in designing and deploying production-ready AI systems across **Generative AI, MLOps, and Multilingual NLP** domains. I have hands-on experience with the complete **machine learning engineering lifecycle**, including data pipeline development, model training, REST API deployment, containerization, and CI/CD automation.
+Hello, My Name is **Prit**. I am a final-year Data Science student with strong expertise in designing and deploying production-ready AI systems across **Generative AI, MLOps, and Multilingual NLP** domains. I have hands-on experience with the complete **machine learning engineering lifecycle**, including data pipeline development, model training, REST API deployment, containerization, and CI/CD automation.
 
 I am particularly interested in transforming experimental AI models into **scalable, real-world applications**. My work focuses on building **end-to-end intelligent systems**, such as hybrid Retrieval-Augmented Generation (RAG) architectures, multilingual NLP pipelines, and automated MLOps workflows, and deploying them as reliable, production-grade solutions.
 
